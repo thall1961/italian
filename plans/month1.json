@@ -1,0 +1,293 @@
+{
+  "startDate": "2026-02-21",
+  "weeks": [
+    {
+      "title": "Week 1 — Essere",
+      "days": [
+        {
+          "title": "Day 1",
+          "sentences": ["Io sono felice.", "Tu sei italiano.", "Lei è alta."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Learn essere (present)", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 2",
+          "sentences": ["Noi siamo amici.", "Voi siete studenti."],
+          "agenda": [
+            { "key": "review", "label": "Review yesterday", "minutes": 5 },
+            { "key": "learn", "label": "Learn essere (plural)", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 3",
+          "sentences": ["Io sono a casa.", "Tu sei stanco.", "Loro sono felici."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Essere full conjugation", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 4",
+          "sentences": ["Sono triste oggi.", "Sei pronto?", "È tardi."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Essere in questions", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 5",
+          "sentences": ["Dove sei?", "Come stai? Sto bene.", "Siamo in Italia!"],
+          "agenda": [
+            { "key": "review", "label": "Review all essere", "minutes": 5 },
+            { "key": "learn", "label": "Essere vs stare intro", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 6",
+          "sentences": ["Io sono americano.", "Lei è professoressa.", "Noi siamo stanchi."],
+          "agenda": [
+            { "key": "review", "label": "Weekly review", "minutes": 10 },
+            { "key": "learn", "label": "Practice essere in context", "minutes": 10 },
+            { "key": "sentences", "label": "Free-form sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 7",
+          "sentences": [],
+          "agenda": [
+            { "key": "review", "label": "Rest day — light review only", "minutes": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Week 2 — Avere",
+      "days": [
+        {
+          "title": "Day 1",
+          "sentences": ["Io ho fame.", "Tu hai sete.", "Lei ha ragione."],
+          "agenda": [
+            { "key": "review", "label": "Review essere", "minutes": 5 },
+            { "key": "learn", "label": "Learn avere (singular)", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 2",
+          "sentences": ["Noi abbiamo tempo.", "Voi avete un cane.", "Loro hanno paura."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Learn avere (plural)", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 3",
+          "sentences": ["Ho venti anni.", "Hai freddo?", "Ha un problema."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Avere expressions", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 4",
+          "sentences": ["Non ho tempo.", "Hai bisogno di aiuto?", "Abbiamo voglia di gelato."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Avere + di expressions", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 5",
+          "sentences": ["Sono felice e ho fame.", "Sei stanco? Hai sonno?"],
+          "agenda": [
+            { "key": "review", "label": "Review essere + avere", "minutes": 5 },
+            { "key": "learn", "label": "Combine essere and avere", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 6",
+          "sentences": ["Ho un fratello. È alto.", "Abbiamo una casa. È grande."],
+          "agenda": [
+            { "key": "review", "label": "Weekly review", "minutes": 10 },
+            { "key": "learn", "label": "Practice in context", "minutes": 10 },
+            { "key": "sentences", "label": "Free-form sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 7",
+          "sentences": [],
+          "agenda": [
+            { "key": "review", "label": "Rest day — light review only", "minutes": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Week 3 — Regular -are Verbs",
+      "days": [
+        {
+          "title": "Day 1",
+          "sentences": ["Io parlo italiano.", "Tu mangi la pizza.", "Lei lavora a Roma."],
+          "agenda": [
+            { "key": "review", "label": "Review essere + avere", "minutes": 5 },
+            { "key": "learn", "label": "Learn -are conjugation", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 2",
+          "sentences": ["Parliamo inglese.", "Mangiate bene.", "Lavorano molto."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "-are verbs (plural)", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 3",
+          "sentences": ["Guardo la TV.", "Ascolti la musica.", "Compra il pane."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "More -are verbs", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 4",
+          "sentences": ["Non parlo francese.", "Non mangio carne.", "Non lavoriamo oggi."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Negation with -are verbs", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 5",
+          "sentences": ["Parli italiano? Sì, parlo un po'.", "Lavori qui? No, lavoro a casa."],
+          "agenda": [
+            { "key": "review", "label": "Review all -are verbs", "minutes": 5 },
+            { "key": "learn", "label": "Questions with -are verbs", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 6",
+          "sentences": ["Parlo italiano e mangio la pizza.", "Lavoro a Roma e abito in centro."],
+          "agenda": [
+            { "key": "review", "label": "Weekly review", "minutes": 10 },
+            { "key": "learn", "label": "Practice in context", "minutes": 10 },
+            { "key": "sentences", "label": "Free-form sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 7",
+          "sentences": [],
+          "agenda": [
+            { "key": "review", "label": "Rest day — light review only", "minutes": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Week 4 — Regular -ere/-ire Verbs",
+      "days": [
+        {
+          "title": "Day 1",
+          "sentences": ["Scrivo una lettera.", "Leggi il libro.", "Prende il treno."],
+          "agenda": [
+            { "key": "review", "label": "Review -are verbs", "minutes": 5 },
+            { "key": "learn", "label": "Learn -ere conjugation", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 2",
+          "sentences": ["Dormo bene.", "Parti domani?", "Apre la porta."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Learn -ire conjugation", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 3",
+          "sentences": ["Capisco l'italiano.", "Finisci il lavoro?", "Preferiscono il tè."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "-ire verbs with -isc-", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 4",
+          "sentences": ["Leggo e scrivo ogni giorno.", "Dormiamo e partiamo presto."],
+          "agenda": [
+            { "key": "review", "label": "Review", "minutes": 5 },
+            { "key": "learn", "label": "Mix -ere and -ire", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 5",
+          "sentences": ["Parlo, scrivo e capisco l'italiano.", "Mangio, leggo e dormo."],
+          "agenda": [
+            { "key": "review", "label": "Review all verb types", "minutes": 5 },
+            { "key": "learn", "label": "Combine all conjugations", "minutes": 10 },
+            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 6",
+          "sentences": ["Sono felice. Ho fame. Mangio la pizza. Leggo un libro."],
+          "agenda": [
+            { "key": "review", "label": "Monthly review", "minutes": 10 },
+            { "key": "learn", "label": "All verbs in context", "minutes": 10 },
+            { "key": "sentences", "label": "Free-form sentences", "minutes": 10 },
+            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+          ]
+        },
+        {
+          "title": "Day 7",
+          "sentences": [],
+          "agenda": [
+            { "key": "review", "label": "Rest day — celebrate month 1!", "minutes": 10 }
+          ]
+        }
+      ]
+    }
+  ]
+}

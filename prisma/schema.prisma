@@ -1,0 +1,40 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model User {
+  id         String   @id @default(cuid())
+  phone      String?  @unique
+  timezone   String   @default("America/Chicago")
+  smsEnabled Boolean  @default(false)
+  createdAt  DateTime @default(now())
+
+  progress ProgressDay[]
+}
+
+model ProgressDay {
+  id        String  @id @default(cuid())
+  userId    String
+  dateKey   String  // "2026-02-21"
+
+  review    Boolean @default(false)
+  learn     Boolean @default(false)
+  sentences Boolean @default(false)
+  speak     Boolean @default(false)
+
+  user User @relation(fields: [userId], references: [id])
+
+  @@unique([userId, dateKey])
+}
+
+model SmsLog {
+  id     String   @id @default(cuid())
+  to     String
+  body   String
+  sentAt DateTime @default(now())
+}
