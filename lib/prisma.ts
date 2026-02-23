@@ -1,9 +1,8 @@
 import { PrismaClient } from "@/generated/prisma/client";
-import { PrismaLibSql } from "@prisma/adapter-libsql";
+import { PrismaNeon } from "@prisma/adapter-neon";
 
-// Create Prisma client with libSQL adapter for SQLite
 function makeClient() {
-  const adapter = new PrismaLibSql({ url: "file:prisma/dev.db" });
+  const adapter = new PrismaNeon({ connectionString: process.env.DATABASE_URL! });
   return new PrismaClient({ adapter });
 }
 
