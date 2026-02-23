@@ -73,13 +73,15 @@ export default async function TodayPage() {
         </section>
       )}
 
-      {/* Open Anki button */}
+      {/* Flashcards button */}
       <div className="mt-8">
         <a
-          href="anki://"
+          href="https://www.ricordaresempre.com/"
+          target="_blank"
+          rel="noopener noreferrer"
           className="block w-full text-center bg-blue-600 text-white rounded-lg py-3 font-medium hover:bg-blue-700 transition-colors"
         >
-          Open Anki
+          Open Flashcards
         </a>
       </div>
     </main>

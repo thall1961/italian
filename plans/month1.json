@@ -1,290 +1,696 @@
 {
-  "startDate": "2026-02-21",
+  "startDate": "2026-02-22",
   "weeks": [
     {
-      "title": "Week 1 — Essere",
+      "title": "Week 1 — 9 Irregular Verbs",
       "days": [
         {
-          "title": "Day 1",
-          "sentences": ["Io sono felice.", "Tu sei italiano.", "Lei è alta."],
+          "title": "Day 1 — Meet the Verbs",
+          "sentences": [
+            "— essere: sono, sei, è, siamo, siete, sono",
+            "— stare: sto, stai, sta, stiamo, state, stanno",
+            "— avere: ho, hai, ha, abbiamo, avete, hanno",
+            "— fare: faccio, fai, fa, facciamo, fate, fanno",
+            "— andare: vado, vai, va, andiamo, andate, vanno",
+            "— venire: vengo, vieni, viene, veniamo, venite, vengono",
+            "— volere: voglio, vuoi, vuole, vogliamo, volete, vogliono",
+            "— dare: do, dai, dà, diamo, date, danno",
+            "— dire: dico, dici, dice, diciamo, dite, dicono",
+            "",
+            "Io sono felice e sto bene.",
+            "Tu hai fame e vuoi mangiare.",
+            "Lei fa una passeggiata e va al parco.",
+            "Noi veniamo alla festa e diamo un regalo.",
+            "Loro dicono che stanno per partire."
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Learn essere (present)", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Read all 9 conjugation tables — look for patterns", "minutes": 15 },
+            { "key": "sentences", "label": "Read the example sentences — picture each scene", "minutes": 15 },
+            { "key": "speak", "label": "Say each conjugation aloud (io sono, tu sei, lui è...)", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 2",
-          "sentences": ["Noi siamo amici.", "Voi siete studenti."],
+          "title": "Day 2 — Use the Verbs (Written)",
+          "sentences": [
+            "FILL IN THE BLANK — write the correct form:",
+            "1. Io ___ (essere) stanco oggi.",
+            "2. Tu ___ (avere) ragione.",
+            "3. Lei ___ (fare) colazione alle otto.",
+            "4. Noi ___ (andare) al cinema stasera.",
+            "5. Loro ___ (volere) un caffè.",
+            "6. Lui ___ (venire) a casa mia domani.",
+            "7. Io ___ (dire) sempre la verità.",
+            "8. Tu ___ (dare) una mano a Marco?",
+            "9. Voi ___ (stare) zitti durante il film.",
+            "10. Noi ___ (essere) pronti e ___ (volere) partire.",
+            "",
+            "SENTENCE BUILDER — combine each pair into one sentence:",
+            "• essere + felice → ?",
+            "• avere + fame → ?",
+            "• fare + passeggiata + andare + parco → ?",
+            "• volere + venire + festa → ?",
+            "• dire + stare + bene → ?",
+            "",
+            "MINI-STORY — fill in the blanks:",
+            "Marco ___ (essere) un ragazzo italiano. Ogni mattina ___ (fare) colazione e ___ (andare) a scuola. I suoi amici ___ (venire) con lui. A scuola Marco ___ (dire) 'buongiorno' alla professoressa. Dopo scuola ___ (volere) giocare a calcio. ___ (stare) bene quando gioca. La sera ___ (avere) fame e ___ (dare) una mano in cucina."
+          ],
           "agenda": [
-            { "key": "review", "label": "Review yesterday", "minutes": 5 },
-            { "key": "learn", "label": "Learn essere (plural)", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Complete the fill-in-the-blank drills", "minutes": 15 },
+            { "key": "sentences", "label": "Build your own sentences & complete the mini-story", "minutes": 20 },
+            { "key": "speak", "label": "Read your completed story & sentences aloud", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 3",
-          "sentences": ["Io sono a casa.", "Tu sei stanco.", "Loro sono felici."],
+          "title": "Day 3 — Rest",
+          "sentences": [
+            "Chi va piano, va sano e va lontano.",
+            "(Who goes slowly, goes safely and goes far.)"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Essere full conjugation", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review — that's it for today", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 4",
-          "sentences": ["Sono triste oggi.", "Sei pronto?", "È tardi."],
+          "title": "Day 4 — Lingopie",
+          "sentences": [
+            "While watching, listen for these verbs:",
+            "essere, stare, avere, fare, andare, venire, volere, dare, dire",
+            "",
+            "After watching, write down:",
+            "• 5 phrases you heard that used one of the 9 verbs",
+            "• 3 new words you picked up from context",
+            "• 1 sentence you want to memorize"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Essere in questions", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Watch a Lingopie episode — ears open for the 9 verbs", "minutes": 25 },
+            { "key": "sentences", "label": "Write down phrases & new words from the episode", "minutes": 10 },
+            { "key": "speak", "label": "Repeat your favorite lines from the show", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 5",
-          "sentences": ["Dove sei?", "Come stai? Sto bene.", "Siamo in Italia!"],
+          "title": "Day 5 — Use the Verbs (Creative)",
+          "sentences": [
+            "TRANSLATE these thoughts into Italian:",
+            "1. I want to go to Italy.",
+            "2. She is tired and wants to sleep.",
+            "3. We are making dinner and they are coming at eight.",
+            "4. He says he is fine but he is not well.",
+            "5. I give a gift to my mother because I love her.",
+            "",
+            "SCENARIO — respond in Italian:",
+            "A friend asks: 'Cosa fai questo weekend?'",
+            "Write 3-4 sentences about your weekend plans using as many of the 9 verbs as possible.",
+            "",
+            "MINI DIARY — write about your real day today:",
+            "Start with 'Oggi...' and use at least 6 of the 9 verbs.",
+            "Example: Oggi sono stanco. Faccio colazione e vado al lavoro. Voglio stare a casa ma dico 'va bene' e vengo in ufficio.",
+            "",
+            "WORD CHAIN — build the longest sentence you can:",
+            "Start with 'Voglio...' and keep adding clauses.",
+            "Example: Voglio andare in Italia e fare una passeggiata, ma sto a casa perché dico che ho troppo da fare."
+          ],
           "agenda": [
-            { "key": "review", "label": "Review all essere", "minutes": 5 },
-            { "key": "learn", "label": "Essere vs stare intro", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Complete the translation challenges", "minutes": 15 },
+            { "key": "sentences", "label": "Write scenario response, diary entry & word chain", "minutes": 20 },
+            { "key": "speak", "label": "Read all your writing aloud — focus on flow", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 6",
-          "sentences": ["Io sono americano.", "Lei è professoressa.", "Noi siamo stanchi."],
+          "title": "Day 6 — Conversation Practice",
+          "sentences": [
+            "ROLE-PLAY these conversations (play both parts aloud):",
+            "",
+            "— At a café:",
+            "A: Buongiorno! Cosa vuoi?",
+            "B: Voglio un caffè, per favore.",
+            "A: Va bene. Vuoi anche qualcosa da mangiare?",
+            "B: No grazie, ho già fatto colazione.",
+            "",
+            "— Making plans:",
+            "A: Cosa fai stasera? Vuoi venire al cinema?",
+            "B: Sì, voglio venire! A che ora andiamo?",
+            "A: Vado alle otto. Vieni con Marco?",
+            "B: No, Marco dice che sta male. Viene domani.",
+            "",
+            "— Checking in:",
+            "A: Come stai? Stai bene?",
+            "B: Sto bene, grazie. Sono un po' stanco.",
+            "A: Hai fame? Faccio la cena adesso.",
+            "B: Sì, ho fame! Cosa fai?",
+            "A: Faccio la pasta. Vuoi dare una mano?",
+            "B: Certo! Vengo in cucina.",
+            "",
+            "Now IMPROVISE your own conversation using a scenario:",
+            "You run into a friend on the street. Greet them, ask how they are, make plans for the weekend."
+          ],
           "agenda": [
-            { "key": "review", "label": "Weekly review", "minutes": 10 },
-            { "key": "learn", "label": "Practice essere in context", "minutes": 10 },
-            { "key": "sentences", "label": "Free-form sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Read through the role-play scripts", "minutes": 10 },
+            { "key": "sentences", "label": "Write your own improvised conversation", "minutes": 15 },
+            { "key": "speak", "label": "Act out all conversations aloud (both roles!)", "minutes": 15 }
           ]
         },
         {
-          "title": "Day 7",
-          "sentences": [],
+          "title": "Day 7 — Weekly Review",
+          "sentences": [
+            "CONJUGATION CHECK — write each from memory:",
+            "essere, stare, avere, fare, andare, venire, volere, dare, dire",
+            "",
+            "QUICK QUIZ — translate without looking:",
+            "1. I am happy → ?",
+            "2. She is doing well → ?",
+            "3. We have time → ?",
+            "4. They make breakfast → ?",
+            "5. Where are you going? → ?",
+            "6. He comes tomorrow → ?",
+            "7. I want coffee → ?",
+            "8. You give a gift → ?",
+            "9. We say goodbye → ?",
+            "",
+            "FREE WRITE — 5 sentences about anything, using as many verbs as you can."
+          ],
           "agenda": [
-            { "key": "review", "label": "Rest day — light review only", "minutes": 10 }
+            { "key": "review", "label": "Full flashcard review — all Week 1 verbs", "minutes": 15 },
+            { "key": "learn", "label": "Write conjugation tables from memory, check weak spots", "minutes": 15 },
+            { "key": "sentences", "label": "Complete the quiz & free write", "minutes": 15 },
+            { "key": "speak", "label": "Narrate your week in Italian using the 9 verbs", "minutes": 10 }
           ]
         }
       ]
     },
     {
-      "title": "Week 2 — Avere",
+      "title": "Week 2 — Daily Life: -are Verbs",
       "days": [
         {
-          "title": "Day 1",
-          "sentences": ["Io ho fame.", "Tu hai sete.", "Lei ha ragione."],
+          "title": "Day 1 — Meet the Verbs",
+          "sentences": [
+            "— parlare: parlo, parli, parla, parliamo, parlate, parlano",
+            "— mangiare: mangio, mangi, mangia, mangiamo, mangiate, mangiano",
+            "— lavorare: lavoro, lavori, lavora, lavoriamo, lavorate, lavorano",
+            "— guardare: guardo, guardi, guarda, guardiamo, guardate, guardano",
+            "— ascoltare: ascolto, ascolti, ascolta, ascoltiamo, ascoltate, ascoltano",
+            "— comprare: compro, compri, compra, compriamo, comprate, comprano",
+            "— abitare: abito, abiti, abita, abitiamo, abitate, abitano",
+            "— cucinare: cucino, cucini, cucina, cuciniamo, cucinate, cucinano",
+            "— studiare: studio, studi, studia, studiamo, studiate, studiano",
+            "— giocare: gioco, giochi, gioca, giochiamo, giocate, giocano",
+            "",
+            "Parlo italiano e studio ogni giorno.",
+            "Lei lavora a Roma e abita in centro.",
+            "Cuciniamo la cena e guardiamo un film.",
+            "I bambini giocano nel parco e ascoltano la musica.",
+            "Compri il pane al supermercato."
+          ],
           "agenda": [
-            { "key": "review", "label": "Review essere", "minutes": 5 },
-            { "key": "learn", "label": "Learn avere (singular)", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review (include Week 1 verbs)", "minutes": 5 },
+            { "key": "learn", "label": "Read all 10 conjugations — notice the -are pattern", "minutes": 15 },
+            { "key": "sentences", "label": "Read example sentences — visualize the scenes", "minutes": 15 },
+            { "key": "speak", "label": "Say each conjugation aloud", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 2",
-          "sentences": ["Noi abbiamo tempo.", "Voi avete un cane.", "Loro hanno paura."],
+          "title": "Day 2 — Use the Verbs (Written)",
+          "sentences": [
+            "FILL IN THE BLANK:",
+            "1. Io ___ (parlare) tre lingue.",
+            "2. Tu ___ (mangiare) la pizza ogni venerdì?",
+            "3. Marco ___ (lavorare) in un ristorante.",
+            "4. Noi ___ (guardare) la partita stasera.",
+            "5. Voi ___ (ascoltare) la musica in macchina?",
+            "6. Loro ___ (comprare) i regali per Natale.",
+            "7. Io ___ (abitare) vicino al mare.",
+            "8. Tu ___ (cucinare) bene!",
+            "9. Lei ___ (studiare) medicina all'università.",
+            "10. I ragazzi ___ (giocare) a calcio dopo scuola.",
+            "",
+            "DESCRIBE YOUR DAILY ROUTINE — use Week 1 + Week 2 verbs:",
+            "La mattina → (what do you do?)",
+            "Il pomeriggio → (what do you do?)",
+            "La sera → (what do you do?)",
+            "",
+            "MINI-STORY — fill in the blanks:",
+            "Lucia ___ (abitare) a Firenze. Ogni mattina ___ (fare) colazione e ___ (andare) al lavoro. ___ (lavorare) in una libreria. A pranzo ___ (mangiare) un panino e ___ (ascoltare) un podcast. La sera ___ (cucinare) la cena, ___ (guardare) la TV e ___ (studiare) inglese. Il weekend ___ (giocare) a tennis con gli amici."
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Learn avere (plural)", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Complete fill-in-the-blank drills", "minutes": 15 },
+            { "key": "sentences", "label": "Write your daily routine & complete the mini-story", "minutes": 20 },
+            { "key": "speak", "label": "Read everything aloud", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 3",
-          "sentences": ["Ho venti anni.", "Hai freddo?", "Ha un problema."],
+          "title": "Day 3 — Rest",
+          "sentences": [
+            "Sbagliando si impara.",
+            "(By making mistakes, one learns.)"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Avere expressions", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review — that's it for today", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 4",
-          "sentences": ["Non ho tempo.", "Hai bisogno di aiuto?", "Abbiamo voglia di gelato."],
+          "title": "Day 4 — Lingopie",
+          "sentences": [
+            "While watching, listen for -are verb endings: -o, -i, -a, -iamo, -ate, -ano",
+            "",
+            "After watching, write down:",
+            "• 5 -are verbs you heard (conjugated or infinitive)",
+            "• Any new -are verbs not in your list",
+            "• 3 full sentences you caught"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Avere + di expressions", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Watch a Lingopie episode — listen for -are endings", "minutes": 25 },
+            { "key": "sentences", "label": "Write down verbs and phrases from the episode", "minutes": 10 },
+            { "key": "speak", "label": "Repeat your favorite lines", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 5",
-          "sentences": ["Sono felice e ho fame.", "Sei stanco? Hai sonno?"],
+          "title": "Day 5 — Use the Verbs (Creative)",
+          "sentences": [
+            "TRANSLATE into Italian:",
+            "1. I work in an office and I study at night.",
+            "2. She cooks dinner while he watches TV.",
+            "3. We buy coffee at the bar every morning.",
+            "4. Do you play soccer? No, I play tennis.",
+            "5. They live in Rome and speak Italian and English.",
+            "",
+            "IMAGINE & WRITE — You're spending a perfect Saturday in Italy.",
+            "Write 6-8 sentences describing your day from morning to night.",
+            "Use at least 7 of the 10 -are verbs PLUS verbs from Week 1.",
+            "",
+            "ODD ONE OUT — which verb doesn't fit? Why? Then use it in a sentence.",
+            "• parlare, mangiare, cucinare, ascoltare (hint: which isn't about producing something?)",
+            "• giocare, lavorare, studiare, guardare (hint: which is passive?)"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review essere + avere", "minutes": 5 },
-            { "key": "learn", "label": "Combine essere and avere", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Complete translation challenges", "minutes": 15 },
+            { "key": "sentences", "label": "Write your perfect Saturday & odd-one-out", "minutes": 20 },
+            { "key": "speak", "label": "Narrate your perfect Saturday aloud", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 6",
-          "sentences": ["Ho un fratello. È alto.", "Abbiamo una casa. È grande."],
+          "title": "Day 6 — Conversation Practice",
+          "sentences": [
+            "ROLE-PLAY (play both parts aloud):",
+            "",
+            "— At the market:",
+            "A: Buongiorno! Cosa compri oggi?",
+            "B: Compro le verdure. Tu cucini stasera?",
+            "A: Sì, cucino la pasta. Vuoi mangiare con noi?",
+            "B: Certo! A che ora mangiamo?",
+            "A: Mangiamo alle otto. Vieni a casa mia.",
+            "",
+            "— Talking about hobbies:",
+            "A: Cosa fai nel tempo libero?",
+            "B: Gioco a calcio e ascolto la musica. E tu?",
+            "A: Io guardo i film e studio l'italiano.",
+            "B: Parli bene l'italiano!",
+            "A: Grazie! Studio ogni giorno.",
+            "",
+            "IMPROVISE: You meet someone new at a party.",
+            "Ask about: where they live, what they do for work, what they like to do. Use both Week 1 and Week 2 verbs."
+          ],
           "agenda": [
-            { "key": "review", "label": "Weekly review", "minutes": 10 },
-            { "key": "learn", "label": "Practice in context", "minutes": 10 },
-            { "key": "sentences", "label": "Free-form sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Read through the role-play scripts", "minutes": 10 },
+            { "key": "sentences", "label": "Write your improvised conversation", "minutes": 15 },
+            { "key": "speak", "label": "Act out all conversations aloud", "minutes": 15 }
           ]
         },
         {
-          "title": "Day 7",
-          "sentences": [],
+          "title": "Day 7 — Review (Weeks 1–2)",
+          "sentences": [
+            "CONJUGATION CHECK — write from memory:",
+            "All 10 -are verbs + spot-check 3 irregular verbs from Week 1.",
+            "",
+            "TRANSLATE without looking:",
+            "1. I speak Italian. → ?",
+            "2. She works and studies. → ?",
+            "3. We cook dinner. → ?",
+            "4. They play in the park. → ?",
+            "5. I want to buy coffee. → ?",
+            "6. He goes to work and comes home late. → ?",
+            "",
+            "COMBINED PARAGRAPH — write about a friend's typical day.",
+            "Use verbs from BOTH weeks. At least 10 sentences."
+          ],
           "agenda": [
-            { "key": "review", "label": "Rest day — light review only", "minutes": 10 }
+            { "key": "review", "label": "Full flashcard review — Weeks 1 & 2", "minutes": 15 },
+            { "key": "learn", "label": "Write conjugations from memory, review weak spots", "minutes": 15 },
+            { "key": "sentences", "label": "Complete quiz & write the combined paragraph", "minutes": 15 },
+            { "key": "speak", "label": "Read your paragraph aloud as a story", "minutes": 10 }
           ]
         }
       ]
     },
     {
-      "title": "Week 3 — Regular -are Verbs",
+      "title": "Week 3 — Common -ere & -ire Verbs",
       "days": [
         {
-          "title": "Day 1",
-          "sentences": ["Io parlo italiano.", "Tu mangi la pizza.", "Lei lavora a Roma."],
+          "title": "Day 1 — Meet the Verbs",
+          "sentences": [
+            "-ere verbs:",
+            "— scrivere: scrivo, scrivi, scrive, scriviamo, scrivete, scrivono",
+            "— leggere: leggo, leggi, legge, leggiamo, leggete, leggono",
+            "— prendere: prendo, prendi, prende, prendiamo, prendete, prendono",
+            "— vedere: vedo, vedi, vede, vediamo, vedete, vedono",
+            "— vivere: vivo, vivi, vive, viviamo, vivete, vivono",
+            "",
+            "-ire verbs:",
+            "— dormire: dormo, dormi, dorme, dormiamo, dormite, dormono",
+            "— partire: parto, parti, parte, partiamo, partite, partono",
+            "— aprire: apro, apri, apre, apriamo, aprite, aprono",
+            "— capire (-isc-): capisco, capisci, capisce, capiamo, capite, capiscono",
+            "— preferire (-isc-): preferisco, preferisci, preferisce, preferiamo, preferite, preferiscono",
+            "",
+            "Scrivo una lettera e leggo un libro.",
+            "Prendo il treno e parto alle nove.",
+            "Capisco l'italiano ma preferisco parlare in inglese.",
+            "Apre la finestra perché vuole vedere il mare.",
+            "Viviamo in America ma vogliamo vivere in Italia."
+          ],
           "agenda": [
-            { "key": "review", "label": "Review essere + avere", "minutes": 5 },
-            { "key": "learn", "label": "Learn -are conjugation", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review (include Weeks 1–2)", "minutes": 5 },
+            { "key": "learn", "label": "Read conjugations — compare -ere vs -ire vs -isc- patterns", "minutes": 15 },
+            { "key": "sentences", "label": "Read example sentences — picture each scene", "minutes": 15 },
+            { "key": "speak", "label": "Say each conjugation aloud", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 2",
-          "sentences": ["Parliamo inglese.", "Mangiate bene.", "Lavorano molto."],
+          "title": "Day 2 — Use the Verbs (Written)",
+          "sentences": [
+            "FILL IN THE BLANK:",
+            "1. Io ___ (scrivere) un'email al mio amico.",
+            "2. Tu ___ (leggere) il giornale ogni mattina?",
+            "3. Lei ___ (prendere) un caffè al bar.",
+            "4. Noi ___ (vedere) un film stasera.",
+            "5. Loro ___ (vivere) a Milano da cinque anni.",
+            "6. Io ___ (dormire) otto ore ogni notte.",
+            "7. Il treno ___ (partire) alle dieci.",
+            "8. Tu ___ (aprire) la porta, per favore?",
+            "9. Voi ___ (capire) quando parlo veloce?",
+            "10. Lei ___ (preferire) il tè o il caffè?",
+            "",
+            "PATTERN DETECTIVE — sort these into groups:",
+            "scrivo, capisco, dormo, preferisco, leggo, parto, apro, vedo",
+            "Group A (regular -ere): ?",
+            "Group B (regular -ire): ?",
+            "Group C (-isc- verbs): ?",
+            "",
+            "MINI-STORY:",
+            "Anna ___ (vivere) a Napoli. Ogni mattina ___ (aprire) la finestra e ___ (vedere) il mare. ___ (prendere) un caffè, ___ (leggere) le notizie e ___ (partire) per il lavoro. La sera ___ (scrivere) nel suo diario. ___ (preferire) scrivere a mano. Non ___ (dormire) molto — ___ (leggere) fino a tardi perché ___ (dire) che i libri sono la cosa più bella."
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "-are verbs (plural)", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Complete fill-in-the-blank & pattern sorting", "minutes": 15 },
+            { "key": "sentences", "label": "Complete the mini-story, then write your own evening routine", "minutes": 20 },
+            { "key": "speak", "label": "Read everything aloud", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 3",
-          "sentences": ["Guardo la TV.", "Ascolti la musica.", "Compra il pane."],
+          "title": "Day 3 — Rest",
+          "sentences": [
+            "Roma non è stata costruita in un giorno.",
+            "(Rome wasn't built in a day.)"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "More -are verbs", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review — that's it for today", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 4",
-          "sentences": ["Non parlo francese.", "Non mangio carne.", "Non lavoriamo oggi."],
+          "title": "Day 4 — Lingopie",
+          "sentences": [
+            "While watching, listen for -ere and -ire verbs.",
+            "Especially: prendere, vedere, capire — these are everywhere in conversation.",
+            "",
+            "After watching, write down:",
+            "• 5 -ere or -ire verbs you heard",
+            "• 2 sentences where someone used 'capire' or 'vedere'",
+            "• 1 new verb you want to learn"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Negation with -are verbs", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Watch a Lingopie episode — listen for -ere/-ire verbs", "minutes": 25 },
+            { "key": "sentences", "label": "Write down verbs and phrases from the episode", "minutes": 10 },
+            { "key": "speak", "label": "Repeat your favorite lines", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 5",
-          "sentences": ["Parli italiano? Sì, parlo un po'.", "Lavori qui? No, lavoro a casa."],
+          "title": "Day 5 — Use the Verbs (Creative)",
+          "sentences": [
+            "TRANSLATE into Italian:",
+            "1. I read a book every night before I sleep.",
+            "2. She takes the train and leaves at seven.",
+            "3. We understand Italian but we prefer to speak slowly.",
+            "4. Do you see that? Open the window!",
+            "5. They live in Florence and write to me every week.",
+            "",
+            "BUILD A CHARACTER — invent an Italian person and describe their life.",
+            "Name, age, where they live, what they do, what they prefer, what they see every day.",
+            "Use at least 8 of the 10 new verbs + verbs from Weeks 1–2.",
+            "",
+            "CHAIN STORY — continue each sentence:",
+            "Prendo il treno → Prendo il treno e vado a Roma.",
+            "Apro il libro → ?",
+            "Vedo un amico → ?",
+            "Capisco tutto → ?",
+            "Parto domani → ?"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review all -are verbs", "minutes": 5 },
-            { "key": "learn", "label": "Questions with -are verbs", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Complete translation challenges", "minutes": 15 },
+            { "key": "sentences", "label": "Build your character & complete chain story", "minutes": 20 },
+            { "key": "speak", "label": "Present your character's life story aloud", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 6",
-          "sentences": ["Parlo italiano e mangio la pizza.", "Lavoro a Roma e abito in centro."],
+          "title": "Day 6 — Conversation Practice",
+          "sentences": [
+            "ROLE-PLAY (play both parts aloud):",
+            "",
+            "— At the train station:",
+            "A: Scusi, a che ora parte il treno per Roma?",
+            "B: Parte alle dieci e trenta.",
+            "A: Capisco. Prendo un biglietto, per favore.",
+            "B: Andata e ritorno?",
+            "A: Solo andata. Parto oggi e vedo quando torno.",
+            "",
+            "— Book club:",
+            "A: Cosa leggi in questo momento?",
+            "B: Leggo un romanzo italiano. Capisco quasi tutto!",
+            "A: Brava! Io preferisco leggere in inglese.",
+            "B: Scrivi anche in italiano?",
+            "A: Sì, scrivo un po' ogni giorno nel mio diario.",
+            "",
+            "IMPROVISE: You're at a café with a friend.",
+            "Discuss what you see around you, what you're reading, your plans for a trip. Use verbs from all 3 weeks."
+          ],
           "agenda": [
-            { "key": "review", "label": "Weekly review", "minutes": 10 },
-            { "key": "learn", "label": "Practice in context", "minutes": 10 },
-            { "key": "sentences", "label": "Free-form sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Read through the role-play scripts", "minutes": 10 },
+            { "key": "sentences", "label": "Write your improvised conversation", "minutes": 15 },
+            { "key": "speak", "label": "Act out all conversations aloud", "minutes": 15 }
           ]
         },
         {
-          "title": "Day 7",
-          "sentences": [],
+          "title": "Day 7 — Review (Weeks 1–3)",
+          "sentences": [
+            "CONJUGATION CHECK — write from memory:",
+            "Pick 5 -ere/-ire verbs + 5 from Weeks 1–2. Write full tables.",
+            "",
+            "SPEED ROUND — translate as fast as you can:",
+            "1. I write → ?",
+            "2. She reads → ?",
+            "3. We understand → ?",
+            "4. They leave → ?",
+            "5. He prefers → ?",
+            "6. I want to see → ?",
+            "7. They go and come back → ?",
+            "8. She says she is tired → ?",
+            "",
+            "FULL STORY — Write about a day trip to an Italian city.",
+            "Use verbs from ALL 3 weeks. Make it at least 10 sentences. Make it fun."
+          ],
           "agenda": [
-            { "key": "review", "label": "Rest day — light review only", "minutes": 10 }
+            { "key": "review", "label": "Full flashcard review — Weeks 1, 2 & 3", "minutes": 15 },
+            { "key": "learn", "label": "Conjugation tables from memory, fix weak spots", "minutes": 15 },
+            { "key": "sentences", "label": "Speed round & write your day trip story", "minutes": 15 },
+            { "key": "speak", "label": "Tell your day trip story aloud like you're telling a friend", "minutes": 10 }
           ]
         }
       ]
     },
     {
-      "title": "Week 4 — Regular -ere/-ire Verbs",
+      "title": "Week 4 — Putting It All Together",
       "days": [
         {
-          "title": "Day 1",
-          "sentences": ["Scrivo una lettera.", "Leggi il libro.", "Prende il treno."],
+          "title": "Day 1 — Meet Essential Phrases",
+          "sentences": [
+            "USEFUL PHRASES using your verbs:",
+            "",
+            "— Greetings & basics:",
+            "Come stai? / Come sta? — Sto bene, grazie.",
+            "Piacere di conoscerti. (Nice to meet you.)",
+            "Mi chiamo... (I call myself...)",
+            "",
+            "— Opinions & preferences:",
+            "Preferisco il caffè. / Voglio provare.",
+            "Dico di sì. / Dico di no.",
+            "Secondo me... (In my opinion...)",
+            "",
+            "— Daily life:",
+            "Faccio colazione/pranzo/cena. (I have breakfast/lunch/dinner.)",
+            "Vado a fare la spesa. (I go grocery shopping.)",
+            "Prendo un caffè al bar. (I grab a coffee at the bar.)",
+            "",
+            "— Asking for things:",
+            "Posso avere...? (Can I have...?)",
+            "Quanto costa? (How much does it cost?)",
+            "Vorrei... (I would like... — polite form of volere)"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review -are verbs", "minutes": 5 },
-            { "key": "learn", "label": "Learn -ere conjugation", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review (all weeks)", "minutes": 5 },
+            { "key": "learn", "label": "Read all phrases — connect them to verbs you know", "minutes": 15 },
+            { "key": "sentences", "label": "Write 2 example sentences for each phrase category", "minutes": 15 },
+            { "key": "speak", "label": "Practice saying each phrase naturally", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 2",
-          "sentences": ["Dormo bene.", "Parti domani?", "Apre la porta."],
+          "title": "Day 2 — Use Everything (Written)",
+          "sentences": [
+            "SCENARIO WRITING — write 4-5 sentences for each:",
+            "",
+            "1. ORDERING AT A RESTAURANT:",
+            "You arrive, greet the waiter, say what you want, ask how much it costs.",
+            "",
+            "2. DESCRIBING YOUR LIFE:",
+            "Where you live, what you do, what you like, what you want to do.",
+            "",
+            "3. TELLING A FRIEND ABOUT YOUR WEEK:",
+            "What you did (present tense is fine), what you saw, where you went.",
+            "",
+            "4. MAKING PLANS:",
+            "Suggest something, say when and where, ask if they want to come.",
+            "",
+            "CHALLENGE: Use at least 15 different verbs across all 4 scenarios."
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Learn -ire conjugation", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Plan out which verbs you'll use for each scenario", "minutes": 10 },
+            { "key": "sentences", "label": "Write all 4 scenarios", "minutes": 25 },
+            { "key": "speak", "label": "Read each scenario aloud as if you're really there", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 3",
-          "sentences": ["Capisco l'italiano.", "Finisci il lavoro?", "Preferiscono il tè."],
+          "title": "Day 3 — Rest",
+          "sentences": [
+            "La pratica rende perfetti.",
+            "(Practice makes perfect.)"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "-ire verbs with -isc-", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review — that's it for today", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 4",
-          "sentences": ["Leggo e scrivo ogni giorno.", "Dormiamo e partiamo presto."],
+          "title": "Day 4 — Lingopie",
+          "sentences": [
+            "This week: watch for PHRASES, not just verbs.",
+            "Listen for how Italians combine verbs naturally.",
+            "",
+            "After watching, write down:",
+            "• 3 phrases that combined 2+ verbs you know",
+            "• 2 new expressions you want to remember",
+            "• Describe one scene from the episode in your own Italian (3-4 sentences)"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review", "minutes": 5 },
-            { "key": "learn", "label": "Mix -ere and -ire", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Watch a Lingopie episode — listen for multi-verb phrases", "minutes": 25 },
+            { "key": "sentences", "label": "Write phrases & describe a scene in your own words", "minutes": 10 },
+            { "key": "speak", "label": "Retell the scene aloud in Italian", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 5",
-          "sentences": ["Parlo, scrivo e capisco l'italiano.", "Mangio, leggo e dormo."],
+          "title": "Day 5 — Use Everything (Creative)",
+          "sentences": [
+            "TRANSLATE these mini-paragraphs:",
+            "1. I live in a small city. I work in an office. Every morning I take coffee and read the news. I want to live in Italy one day.",
+            "2. My friend Maria lives in Rome. She says Rome is beautiful. She goes to the park, sees friends, and cooks dinner every night. I want to visit her.",
+            "",
+            "WRITE YOUR OWN STORY: 'Un giorno perfetto in Italia'",
+            "You wake up in Italy. Describe your entire perfect day from morning to night.",
+            "Goal: 12+ sentences. Use verbs from ALL 4 weeks.",
+            "",
+            "VERB CHALLENGE: Write one sentence that uses 4 different verbs.",
+            "Example: Voglio andare al cinema, ma dico che devo studiare.",
+            "Now beat it — can you fit 5 verbs in one sentence?"
+          ],
           "agenda": [
-            { "key": "review", "label": "Review all verb types", "minutes": 5 },
-            { "key": "learn", "label": "Combine all conjugations", "minutes": 10 },
-            { "key": "sentences", "label": "Build sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Complete translation paragraphs", "minutes": 15 },
+            { "key": "sentences", "label": "Write 'Un giorno perfetto' & verb challenge", "minutes": 20 },
+            { "key": "speak", "label": "Read your perfect day aloud — own it", "minutes": 10 }
           ]
         },
         {
-          "title": "Day 6",
-          "sentences": ["Sono felice. Ho fame. Mangio la pizza. Leggo un libro."],
+          "title": "Day 6 — Conversation Practice",
+          "sentences": [
+            "ROLE-PLAY (play both parts aloud):",
+            "",
+            "— Meeting someone at a party:",
+            "A: Ciao! Come ti chiami?",
+            "B: Mi chiamo [name]. E tu?",
+            "A: [name]. Piacere! Dove abiti?",
+            "B: Abito a [city]. E tu, cosa fai?",
+            "A: Lavoro in un ufficio. Studio anche l'italiano!",
+            "B: Bello! Parli bene! Vuoi prendere qualcosa da bere?",
+            "A: Sì, voglio un bicchiere di vino. Andiamo al bar.",
+            "",
+            "— Planning a vacation:",
+            "A: Voglio andare in vacanza. Vieni con me?",
+            "B: Dove vuoi andare?",
+            "A: Voglio vedere Firenze. Dicono che è bellissima.",
+            "B: Quando partiamo?",
+            "A: Partiamo venerdì. Prendiamo il treno.",
+            "B: Perfetto! Faccio la valigia stasera.",
+            "",
+            "FINAL IMPROVISATION:",
+            "You've been living in Italy for a week. Call a friend back home and tell them everything — where you are, what you do every day, what you see, what you eat, what you like."
+          ],
           "agenda": [
-            { "key": "review", "label": "Monthly review", "minutes": 10 },
-            { "key": "learn", "label": "All verbs in context", "minutes": 10 },
-            { "key": "sentences", "label": "Free-form sentences", "minutes": 10 },
-            { "key": "speak", "label": "Speak aloud", "minutes": 5 }
+            { "key": "review", "label": "Quick flashcard review", "minutes": 5 },
+            { "key": "learn", "label": "Read through the role-play scripts", "minutes": 10 },
+            { "key": "sentences", "label": "Write your final improvisation", "minutes": 15 },
+            { "key": "speak", "label": "Perform everything — go all in!", "minutes": 15 }
           ]
         },
         {
-          "title": "Day 7",
-          "sentences": [],
+          "title": "Day 7 — Monthly Review",
+          "sentences": [
+            "FULL CONJUGATION TEST — write all tables from memory:",
+            "Week 1: essere, stare, avere, fare, andare, venire, volere, dare, dire",
+            "Week 2: parlare, mangiare, lavorare, guardare, ascoltare, comprare, abitare, cucinare, studiare, giocare",
+            "Week 3: scrivere, leggere, prendere, vedere, vivere, dormire, partire, aprire, capire, preferire",
+            "",
+            "RAPID FIRE — translate 1 sentence per verb (29 verbs!):",
+            "Go through every verb and make a sentence. Don't overthink it.",
+            "",
+            "FINAL CHALLENGE — write a letter to an Italian friend.",
+            "Tell them about your life, your week, your plans, what you like.",
+            "Use as many verbs as you can. Aim for 15+ sentences.",
+            "",
+            "Congratulations — you've finished Month 1!"
+          ],
           "agenda": [
-            { "key": "review", "label": "Rest day — celebrate month 1!", "minutes": 10 }
+            { "key": "review", "label": "Full flashcard review — every verb from the month", "minutes": 20 },
+            { "key": "learn", "label": "Write all conjugation tables from memory", "minutes": 20 },
+            { "key": "sentences", "label": "Rapid fire translations & write the letter", "minutes": 20 },
+            { "key": "speak", "label": "Read your letter aloud — celebrate finishing Month 1!", "minutes": 10 }
           ]
         }
       ]
