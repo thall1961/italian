@@ -8,11 +8,13 @@ datasource db {
 }
 
 model User {
-  id         String   @id @default(cuid())
-  phone      String?  @unique
-  timezone   String   @default("America/Chicago")
-  smsEnabled Boolean  @default(false)
-  createdAt  DateTime @default(now())
+  id           String   @id @default(cuid())
+  email        String?  @unique
+  passwordHash String?
+  phone        String?  @unique
+  timezone     String   @default("America/Chicago")
+  smsEnabled   Boolean  @default(false)
+  createdAt    DateTime @default(now())
 
   progress ProgressDay[]
 }

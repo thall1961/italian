@@ -1,6 +1,9 @@
 import { prisma } from "@/lib/prisma";
 import { getTodayPlan, todayDateKey } from "@/lib/plan";
+import { getSessionUserId } from "@/lib/auth";
+import { redirect } from "next/navigation";
 import { TaskChecklist } from "./checklist";
+import { SignOutButton } from "./sign-out-button";
 
 export const dynamic = "force-dynamic";
 
@@ -21,11 +24,12 @@ export default async function TodayPage() {
 
   const { week, day } = plan;
 
-  // Get or create user (single-user mode)
-  let user = await prisma.user.findFirst();
-  if (!user) {
-    user = await prisma.user.create({ data: {} });
-  }
+  // Get authenticated user
+  const userId = await getSessionUserId();
+  if (!userId) redirect("/login");
+
+  const user = await prisma.user.findUnique({ where: { id: userId } });
+  if (!user) redirect("/login");
 
   // Load progress for today
   const progress = await prisma.progressDay.findUnique({
@@ -42,9 +46,12 @@ export default async function TodayPage() {
   return (
     <main className="max-w-md mx-auto px-4 py-8">
       {/* Header */}
-      <header className="mb-6">
-        <h1 className="text-xl font-bold">{week.title}</h1>
-        <p className="text-gray-500">{day.title}</p>
+      <header className="mb-6 flex items-start justify-between">
+        <div>
+          <h1 className="text-xl font-bold">{week.title}</h1>
+          <p className="text-gray-500">{day.title}</p>
+        </div>
+        <SignOutButton />
       </header>
 
       {/* Agenda checklist */}
